@@ -1,0 +1,8 @@
+{
+  "name": "workShop",
+  "app_id": "482593e5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
